@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/budget-planer/static/css/main.a714cb6f.css",
+    "main.js": "/budget-planer/static/js/main.9c5de28d.js",
+    "index.html": "/budget-planer/index.html",
+    "main.a714cb6f.css.map": "/budget-planer/static/css/main.a714cb6f.css.map",
+    "main.9c5de28d.js.map": "/budget-planer/static/js/main.9c5de28d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a714cb6f.css",
+    "static/js/main.9c5de28d.js"
+  ]
+}
